@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030519574413",
+    "project_id": "logindemo-265dc",
+    "storage_bucket": "logindemo-265dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030519574413:android:da8ac2f5d88a8a918a37c4",
+        "android_client_info": {
+          "package_name": "com.example.logindemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuo_5qk3hzL6vwzVymh4C5GPsnyogONE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

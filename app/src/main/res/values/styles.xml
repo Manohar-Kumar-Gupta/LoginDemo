@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Your main app theme -->
+    </style>
+
+    <style name="LoginActivityTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize the theme for your login activity here -->
+    </style>
+
+</resources>
